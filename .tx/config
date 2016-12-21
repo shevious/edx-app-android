@@ -1,6 +1,7 @@
 [main]
 type = ANDROID
 host = https://www.transifex.com
+lang_map = ko_KR: ko
 
 [edx-mobile-apps.android-app-strings]
 file_filter = OpenEdXMobile/res/values-<lang>/strings.xml
